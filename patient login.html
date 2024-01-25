@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>patient Login</title>
+    <style>
+        body {
+         
+            background-color:rgb(158, 229, 225);
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display:solid;
+            justify-content:right;
+            align-items:right;
+            height: 100%;
+            background-position: right;
+        }
+
+        h1, h2 {
+            color: black;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 24px;
+        }
+
+        form {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            width: 40%;
+            align-items: right;
+            margin: auto;
+            
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            color: #333;
+            align-items: right;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        .error-message {
+            color: red;
+            margin-top: 5px;
+        }
+
+        /* Modal Styling */
+        div {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            z-index: 1;
+        }
+
+        .div-content {
+            text-align: center;
+        }
+
+        .close-btn {
+            cursor: pointer;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>PATIENT LOGIN FORM</h1>
+
+    <form id="myForm" action="#" method="post" onsubmit="return validateForm()">
+        <label for="patinetName">patinet Name:</label>
+        <input type="text" id="patientName" name="patientName" required>
+    
+        <label for="patientdepartment">Patient Department:</label>
+        <input type="text" id="patientdepartment" name="patientdepartment" required>
+    
+        <label for="patientPhoneNumber">Patient Phone Number:</label>
+        <input type="tel" id="patientPhoneNumber" name="patientPhoneNumber" required pattern="[0-9]{10}">
+    
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+    
+    <script>
+        function validateForm() {
+            var patientPhoneNumber = document.getElementById('patientPhoneNumber');
+    
+            if (!/^[0-9]{10}$/.test(patientPhoneNumber.value)) {
+                alert('Invalid phone number. Please enter a 10-digit number.');
+                return false;
+            }
+    
+            alert("Your application submitted successfully!");
+    
+            
+            document.getElementById("myForm").reset();
+    
+            return false;
+        }
+    
+        function cancelSubmit() {
+            var confirmed = confirm("Are you sure you want to cancel?");
+            if (confirmed) {
+                document.getElementById("myForm").reset();
+            }
+        }
+    </script>
+    <section style="width:50px; box-shadow: none; margin:auto;">
+        <a href="index.html" style="color: white; text-decoration: none; background-color: brown; padding: 10px 20px 10px 20px; margin-bottom: 30px;">Home</a>
+    </section>  
+    
+</body>
+</html>
