@@ -23,7 +23,7 @@ Shahid(Deployment management) - Deployment and maintenance of project infrastruc
 
 
 <h1> AZURE SERVICES USED: </h1>
-CORE AZURE SERVICES:
+<h2>CORE AZURE SERVICES:</h2>
 Azure Storage Account Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
 sceenshot...................................................................
