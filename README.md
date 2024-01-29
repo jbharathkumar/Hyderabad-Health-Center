@@ -48,6 +48,9 @@ Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, d
 
 <img src="container Storage account.png">
 
+<img src="container web.png">
+
+
 
 
 
