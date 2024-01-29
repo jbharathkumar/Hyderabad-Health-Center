@@ -37,6 +37,7 @@ Explore the advanced healthcare offerings of Hyderabad Hospital's web page, desi
 Experience the ease of managing your healthcare with our user-friendly online appointment booking system. Patients can effortlessly schedule appointments from the comfort of their homes, regardless of their location. Furthermore, our secure patient login feature allows access to personal medical histories, ensuring a personalized and convenient healthcare experience.
 
 <h1>CORE AZURE SERVICES:</h1>
+Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 <h1>screenshots</h1>
 storage:
 <img src="Screenshot 2024-01-24 120254 (1).png">
