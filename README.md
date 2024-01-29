@@ -21,6 +21,14 @@ Sai kiran(Content management) - Responsible for managing the website content.<br
 Kalpana(Documentation management) - Responsible for managing the Documentation process.<br>
 Mohammed Shahid(Deployment Specialist) - Deployment and maintenance of project infrastructure.
 
+<h1>AZURE SERVICES USED:</h1>
+
+Azure Storage Account<br>
+Azure Blob Storage<br>
+Azure Backup Service<br>
+Azure App Service Plan<br>
+
+
 
 <h1>AZURE AI SERVICES USED: </h1>
 Azure Bot Service<br>
