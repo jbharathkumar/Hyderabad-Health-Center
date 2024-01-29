@@ -23,21 +23,49 @@ Shahid(Deployment management) - Deployment and maintenance of project infrastruc
 
 
 <h1> AZURE SERVICES USED: </h1>
-Azure Storage<br>
-Azure containers<br>
-Azure backup<br>
-Azure ai<br>
-Azure language<br>
-Azure RBAC which is role based access service
+CORE AZURE SERVICES:
+Azure Storage Account Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
+sceenshot...................................................................
 
+Azure Blob Storage
+Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 
-<h1> AZURE AI SERVICES USED: </h1>
+screenshot ...........................................................
 
-Azure Bot Service<br>
-Manage Identity<br>
-Azure AI Service<br>
-Search Service<br>
+Azure Backup Service
+Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
+
+sreenshot..........................................................
+
+Azure App Service Plan
+Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
+
+screenshot .....................................................
+
+AZURE AI SERVICES:
+Azure Bot Service
+Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
+
+screenshot ...................................................................
+
+Manage Identity
+Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
+
+screenshot ...........................................................
+
+Azure AI Service
+Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
+
+Search Service Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+
+sreenshot .......................................................................
+
+SCREENSHOTS.... - Static websiste - language service - Data protection - bot.html - chatbot
+
+working live project resource visualizer
+
+FINAL PROJECT STATEMENT:
 
 
 <h1> PROBLEM STATEMENT: </h1>
