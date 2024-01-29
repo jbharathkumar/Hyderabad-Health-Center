@@ -39,6 +39,7 @@ Experience the ease of managing your healthcare with our user-friendly online ap
 <h1>CORE AZURE SERVICES:</h1>
 <h1>screenshots</h1>
 storage:
+<img src="Screenshot 2024-01-24 120254 (1).png">
 
 
 
