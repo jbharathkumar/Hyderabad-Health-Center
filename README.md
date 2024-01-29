@@ -59,7 +59,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 Search Service Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
 
-sreenshot .......................................................................
+sreenshot ................................................................
 
 SCREENSHOTS.... - Static websiste - language service - Data protection - bot.html - chatbot
 
