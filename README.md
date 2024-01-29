@@ -88,6 +88,9 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 
 <h1>SCREENSHOTS</h1>
 
+<h1>Static Website</h1>
+<img src="static website.png">
+
 <h1>Language Services</h1>
 <img src="language.png">
 
