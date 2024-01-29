@@ -26,6 +26,7 @@ Azure Bot Service<br>
 Manage Identity<br>
 Azure AI Service<br>
 Search Service<br>
+Azure Backup<br>
 
 <h1>PROBLEM STATEMENT:</h1>
 "In today's fast-paced real estate market, potential homebuyers and sellers often face challenges in finding a platform that seamlessly connects them with the right opportunities. Existing real estate websites may lack user-friendly interfaces, comprehensive property information, or reliable tools for property valuation. Additionally, the overwhelming amount of data and choices can make the process confusing and time-consuming. Buyers struggle to find their ideal homes, and sellers face difficulties in showcasing their properties effectively. Both parties often grapple with uncertainties related to property values, market trends, and the overall real estate landscape. In this landscape, there is a clear need for a real estate website that addresses these pain points. An innovative platform that provides a user-friendly experience, offers comprehensive property details, utilizes advanced tools for valuation, and creates a transparent and efficient marketplace for buying and selling real estate. The challenge is to develop a real estate website that not only streamlines the property search and transaction process but also empowers users with the information and tools they need to make informed decisions in the dynamic and competitive real estate market."
