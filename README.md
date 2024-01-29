@@ -1,3 +1,4 @@
+
 <h1>HHC - Website</h1>
 <h1> "Hyderabad-Health-care" </h1>
 HHC-website
@@ -49,6 +50,12 @@ Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, d
 <img src="container Storage account.png">
 
 <img src="container web.png">
+
+<h1>Azure Backup Service</h1>
+
+Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information
+
+<img src="Backup vault.png">
 
 
 
