@@ -8,7 +8,7 @@ HHC-website
 
 Project Demo URL : https://hhc456.z13.web.core.windows.net/<br>
 Demo Video URL :<br>
-Github Repository URL :<br> 
+Github Repository URL : https://github.com/jbharathkumar/Hyderabad-Health-Center<br> 
 Industry : Hyderabad Health Center
 
 
