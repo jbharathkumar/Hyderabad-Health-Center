@@ -39,6 +39,6 @@ Experience the ease of managing your healthcare with our user-friendly online ap
 <h1>CORE AZURE SERVICES:</h1>
 <h2>Azure Storage Services</h2>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
-<img scr="C:\Users\prava\OneDrive\Desktop\STORAGE.png">
+<img scr="https://github.com/jbharathkumar/Hyderabad-Health-Center/blob/main/Az%20bot.png?raw=true">
 
 
