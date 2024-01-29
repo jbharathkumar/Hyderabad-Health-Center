@@ -35,5 +35,7 @@ Explore the advanced healthcare offerings of Hyderabad Hospital's web page, desi
 
 Experience the ease of managing your healthcare with our user-friendly online appointment booking system. Patients can effortlessly schedule appointments from the comfort of their homes, regardless of their location. Furthermore, our secure patient login feature allows access to personal medical histories, ensuring a personalized and convenient healthcare experience.
 
+<h1>CORE AZURE SERVICES:</h1>
+
 
 
