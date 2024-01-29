@@ -63,6 +63,13 @@ Azure App Service Plan is a foundational component within Microsoft Azure that d
 
 <img src="App service plan.png">
 
+<h1>AZURE AI SERVICES:</h1>
+
+Azure Bot Service
+Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
+
+<img src="Az bot.png">
+
 
 
 
