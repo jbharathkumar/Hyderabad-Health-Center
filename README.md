@@ -9,7 +9,7 @@ HHC-website
 Project Demo URL :<br>
 Demo Video URL :<br>
 Github Repository URL :<br> 
-Industry : Hospital management system
+Industry : Hyderabad health center
 
 
 
