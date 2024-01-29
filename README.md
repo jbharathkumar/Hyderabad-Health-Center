@@ -22,7 +22,7 @@ Shahid(Deployment management) - Deployment and maintenance of project infrastruc
 
 
 <h1>AZURE AI SERVICES USED: </h1>
-Azure Bot Service<br><br>
+Azure Bot Service<br>
 Manage Identity<br>
 Azure AI Service<br>
 Search Service<br>
