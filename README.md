@@ -18,7 +18,7 @@ Industry : Hyderabad Health Center
 Bharath(Project management) - Manages the web development project.<br>
 Sai kiran(Content management) - Responsible for managing the website content.<br>
 Kalpana(Documentation management) - Responsible for managing the Documentation process.<br>
-Mohammed Shahid(Deployment management) - maintanance and deployment of project infrastructure.
+Mohammed Shahid(Deployment management) - Deployment and maintenance of project infrastructure.
 
 
 <h1>AZURE AI SERVICES USED: </h1>
