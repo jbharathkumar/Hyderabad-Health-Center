@@ -6,7 +6,7 @@ HHC-website
 
 <h1> Project Details: </h1>
 
-Project Demo URL :https://hhc456.z13.web.core.windows.net/<br>
+Project Demo URL : https://hhc456.z13.web.core.windows.net/<br>
 Demo Video URL :<br>
 Github Repository URL :<br> 
 Industry : Hyderabad Health Center
