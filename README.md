@@ -57,7 +57,11 @@ Azure Backup Service is a cloud-based solution provided by Microsoft Azure that 
 
 <img src="Backup vault.png">
 
+<h1>Azure App Service Plan</h1>
 
+Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
+
+<img src="App service plan.png">
 
 
 
