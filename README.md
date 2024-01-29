@@ -94,8 +94,12 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 <h1>Data Protection</h1>
 <img src="Data protection storage account.png">
 
-<h1>Bot.html</h1>
+<h1>Bot.Html</h1>
 <img src="Container.png">
+
+<h1>CHATBOT</h1>
+<img src="Test in chat bot azure bot.png">
+
 
 
 
