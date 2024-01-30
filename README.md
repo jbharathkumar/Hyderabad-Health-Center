@@ -131,6 +131,10 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 
 
 
+<h1>FINAL PROJECT STATEMENT:</h1>
+The Hyderabad Health Center project aims to establish a comprehensive healthcare facility in the various cities, integrating modern medical services with a focus on community well-being. This center is envisioned as a hub for accessible, high-quality healthcare services, catering to the diverse healthcare needs of the People
+
+
 
 
 
