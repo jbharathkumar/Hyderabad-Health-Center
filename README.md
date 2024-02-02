@@ -1,6 +1,6 @@
 
 <h1>HHC - Website</h1>
-<h1> "Hyderabad-Health-care" </h1>
+<h1> "Hyderabad-Health-center" </h1>
 HHC-website
 "HYDERABAD HEALTH CARE"
 "Patient is our health priority."
