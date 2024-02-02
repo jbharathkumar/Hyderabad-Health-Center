@@ -2,7 +2,7 @@
 <h1>HHC - Website</h1>
 <h1> "Hyderabad-Health-center" </h1>
 HHC-website
-"HYDERABAD HEALTH CARE"
+"HYDERABAD HEALTH CENTER"
 "Patient is our health priority."
 
 <h1> Project Details: </h1>
